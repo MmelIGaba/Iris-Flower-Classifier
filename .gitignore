@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter notebooks (if used)
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit or Flask app artifacts
+*.db
+*.sqlite3
+*.env
+
+# IDE/editor configs
+.vscode/
+.idea/
+
+# Assets
+app/assets/
+
